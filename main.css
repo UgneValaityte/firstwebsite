@@ -1,0 +1,62 @@
+.test{
+  color:black;
+  text-align: center;
+  font-size:2em;
+  font-weight:bold;
+  font-family: 'Lobster', cursive;
+  margin: 90px;
+}
+
+a{
+  text-decoration: none;
+  color:naive;
+  font-weight:bold;
+  font-family: 'Yrsa', serif;
+
+}
+
+.header {
+  text-align:center;
+  color:black;
+  font-size: 5em;
+  height: auto;
+  font-family: 'Lobster', cursive;
+}
+
+body{
+  background-color: #B3E5FC;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+  padding: 26px;
+  margin: auto;
+  display: block;
+}
+
+.into{
+  color:black;
+  font-size: 1.3em;
+  line-height: 1.4em;
+  text-align: left;
+  border: 5px none #ccc;
+  margin: 10px 20px;
+}
+
+.bar {
+  float: left;
+  width: 33.3%;
+  min-width: 320px;
+}
+
+.bars {
+  overflow: hidden;
+}
+
+footer{
+  text-align: center;
+  margin-top: 60px;
+  color:black;
+  font-weight: bold;
+}
